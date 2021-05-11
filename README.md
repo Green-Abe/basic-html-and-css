@@ -1,2 +1,2 @@
-# basic-html-and-css
-creating a basic html and css page
+# basic-html
+creating a basic html  page
